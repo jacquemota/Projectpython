@@ -1,5 +1,8 @@
+import registrar as registrar
+import gerenciar_estoque as gerenciar_estoque
+
 def cadastro_admin():
-    # cadastro.py
+    
 
     def verificar_nome(nome):
     # Verifique se o nome não contém caracteres iguais

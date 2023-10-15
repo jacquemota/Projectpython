@@ -1,4 +1,7 @@
-# cadastro.py
+
+import registrar as registrar
+import efetuar_compras as efetuar_compras
+
 
 def verificar_nome(nome):
     # Verifique se o nome não contém caracteres iguais
